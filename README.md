@@ -1,1 +1,1 @@
-# damage-calculator
+Sandbox for playing in.
